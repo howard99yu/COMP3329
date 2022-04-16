@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - gate
+  - blue_gate
+  - red_gate
+  - yellow_gate
+  - colour
+  - yellow_box
+  - red_box
+  - Player2
+  - blue_box
+  - Player3
+  - purple_gate
+  - JoinLine
+  - mixing_location
+  - mixing_location2
+  - Text
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - WhitePlayerBlackGate
+  - BlackPlayerWhiteGate
+  - player
+  - gates
+  - Text
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 317784023
+    locked: 0
+  - name: Foreground
+    uniqueID: 3358364991
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Gates
+    uniqueID: 4185105983
+    locked: 0
